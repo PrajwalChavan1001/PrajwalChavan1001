@@ -16,7 +16,6 @@
 </p>
 
 - 🌱 I’m currently mastering **Deep Learning Algorithms**.
-- 👨‍💻 Explore my projects here: [My Portfolio](https://prajwalchavan1001.github.io/My-Portfolio/)
 - 💬 Feel free to ask me about **Python, AI-ML, MERN Stack**.
 - 📫 Reach me at: **prajwalc2107@gmail.com**.
 - 📄 Learn more about my professional journey on [LinkedIn](https://linkedin.com/in/prajwal2107).
